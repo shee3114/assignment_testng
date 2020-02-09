@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46061" started-at="2020-02-09T14:38:59Z" finished-at="2020-02-09T14:39:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46061" started-at="2020-02-09T14:38:59Z" finished-at="2020-02-09T14:39:45Z">
+      <class name="com.browserstack.sampletest.testng.ParameterByDataprovider">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="launchBrowser" is-config="true" duration-ms="1503" started-at="2020-02-09T20:08:57Z" finished-at="2020-02-09T20:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navivatToBrowserStackPage()[pri:0, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="navivatToBrowserStackPage" duration-ms="8091" started-at="2020-02-09T20:08:59Z" finished-at="2020-02-09T20:09:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navivatToBrowserStackPage -->
+        <test-method status="PASS" signature="createAccount()[pri:1, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="createAccount" duration-ms="6379" started-at="2020-02-09T20:09:07Z" finished-at="2020-02-09T20:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="selectOneProductFromWomanSection()[pri:2, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="selectOneProductFromWomanSection" duration-ms="9910" started-at="2020-02-09T20:09:13Z" finished-at="2020-02-09T20:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectOneProductFromWomanSection -->
+        <test-method status="PASS" signature="checkoutAndVerifyAmount()[pri:4, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="checkoutAndVerifyAmount" duration-ms="15250" started-at="2020-02-09T20:09:23Z" finished-at="2020-02-09T20:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutAndVerifyAmount -->
+        <test-method status="PASS" signature="amountVerificationInProfilePage()[pri:5, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="amountVerificationInProfilePage" duration-ms="6420" started-at="2020-02-09T20:09:39Z" finished-at="2020-02-09T20:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountVerificationInProfilePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.sampletest.testng.ParameterByDataprovider@25618e91]" name="tearDown" is-config="true" duration-ms="106" started-at="2020-02-09T20:09:45Z" finished-at="2020-02-09T20:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.sampletest.testng.ParameterByDataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
